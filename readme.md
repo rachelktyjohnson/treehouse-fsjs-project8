@@ -1,7 +1,4 @@
 # Treehouse FSJS Project 8
-By Rachel Johnson
-
----
 
 ### Set Up and Initialize Project
 The .gitignore file is in place and the node_modules folder is not stored in the repo.
